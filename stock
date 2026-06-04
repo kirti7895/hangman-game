@@ -1,0 +1,34 @@
+**Stock Portfolio Tracker**
+
+**Description**
+
+This Python project helps users calculate the total value of their stock investments. Users enter stock names and quantities, and the program calculates the total investment using predefined stock prices.
+
+**Features**
+
+- User input for stock names and quantities
+- Predefined stock price dictionary
+- Automatic investment calculation
+- Option to save results in a text or CSV file
+
+**Technologies Used**
+
+- Python
+
+**How to Run**
+
+1. Open the project in VS Code.
+2. Run the Python file.
+3. Enter stock names and quantities.
+4. View the total investment value.
+
+**Learning Outcomes**
+
+- Dictionaries
+- Input and output operations
+- Basic arithmetic calculations
+- File handling
+
+Author
+
+Kirti Pal
