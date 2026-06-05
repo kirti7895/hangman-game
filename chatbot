@@ -1,0 +1,37 @@
+**Basic Chatbot**
+
+**Description**
+
+This project is a simple rule-based chatbot built using Python. The chatbot responds to predefined user inputs such as greetings and common questions.
+
+**Features**
+
+- Responds to greetings
+- Answers basic questions
+- Handles exit commands
+- Easy to understand and modify
+
+**Technologies Used**
+
+- Python
+
+**How to Run**
+
+1. Open the project in VS Code.
+2. Run the Python file.
+3. Type messages such as:
+   - hello
+   - how are you
+   - bye
+4. Receive chatbot responses.
+
+**Learning Outcomes** 
+
+- Conditional statements
+- Functions
+- Loops
+- User input handling
+
+Author
+
+Kirti Pal
